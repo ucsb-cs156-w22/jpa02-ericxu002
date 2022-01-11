@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-ericxu002
 
-On Heroku: https://jpa02-ericxu.herokuapp.com/
+On Heroku: https://jpa02-ericxu002.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-ericxu002/
 
